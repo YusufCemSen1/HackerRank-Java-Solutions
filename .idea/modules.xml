@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calisma/Calisma.iml" filepath="$PROJECT_DIR$/Calisma/Calisma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EndOfFile/EndOfFile.iml" filepath="$PROJECT_DIR$/EndOfFile/EndOfFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenOdd/EvenOdd.iml" filepath="$PROJECT_DIR$/EvenOdd/EvenOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDatatypes/JavaDatatypes.iml" filepath="$PROJECT_DIR$/JavaDatatypes/JavaDatatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLoops1/JavaLoops1.iml" filepath="$PROJECT_DIR$/JavaLoops1/JavaLoops1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLoops2/JavaLoops2.iml" filepath="$PROJECT_DIR$/JavaLoops2/JavaLoops2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOutputFormatting/JavaOutputFormatting.iml" filepath="$PROJECT_DIR$/JavaOutputFormatting/JavaOutputFormatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pre-OOP/Pre-OOP.iml" filepath="$PROJECT_DIR$/Pre-OOP/Pre-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StdinStdout2/StdinStdout2.iml" filepath="$PROJECT_DIR$/StdinStdout2/StdinStdout2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unterface/Unterface.iml" filepath="$PROJECT_DIR$/Unterface/Unterface.iml" />
     </modules>
   </component>
 </project>
